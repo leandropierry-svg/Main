@@ -1,8 +1,0 @@
-isso e um teste
-estou fazendo alterações no mesmo arquivo
-felipe
-e incluindo novamente outros dados, ou seja corrigindo o código script
-serve em qualquer tipo de arquivo
-print ('Olá mundo')
-estou alterando novamente
-
