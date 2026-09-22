@@ -13,9 +13,9 @@ FAIXA_ACOSTAMENTO = 22
 VEL_MIN = 1.5
 VEL_MIN_NATURAL = 3.0      # velocidade "de cruzeiro" para onde o carro tende a voltar
 VEL_MAX_BASE = 8.5
-VEL_MAX_TETO = 13.5        # limite absoluto que a dificuldade pode alcançar
-ACELERACAO = 0.10
-FREIO = 0.16
+VEL_MAX_TETO = 15.9        # limite absoluto que a dificuldade pode alcançar
+ACELERACAO = 0.50
+FREIO = 0.18
 ATRITO_NATURAL = 0.05
 
 # Direção
