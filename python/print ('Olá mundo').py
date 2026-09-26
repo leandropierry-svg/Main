@@ -1,7 +1,0 @@
-print ('Olá mundo')
-nome = input ('Qual e o seu nome?')
-idade = input ('Qual e a sua idade?')
-dia = input ('Qual e o dia do seu nascimento?')
-mes = input ('Qual e o mes do seu nascimento?')
-ano = input ('Qual é o ano do seu nascimento?')
-print: str = (f' seu nome é {nome} sua idade é {idade} voce nasceu dia {dia} no mes {mes} e no ano {ano}')
